@@ -12,7 +12,7 @@
     <br />
     <br />:no_entry: <code><img height="30" src="https://github.com/umarurize/umaru-cdn/blob/main/images/UBan.jpg" alt=UBan" /></a>&nbsp;UBan</code>: A server management plugin with rich functions(Ban players|Block out shit words|Report System).
     <br />
-    <br />:moneybag: <code><img height="35" src="https://github.com/umarurize/umaru-cdn/blob/main/images/U-Red-Packets.jpg" alt=U-Red-Packets" /></a>&nbsp;U-Red-Packet</code>: A plugin that simulates WeChat red packets(lucky|normal|private) in the server.
+    <br />:moneybag: <code><img height="35" src="https://github.com/umarurize/umaru-cdn/blob/main/images/U-Red-Packets.jpg" alt=U-Red-Packets" /></a>&nbsp;U-Red-Packet</code>: A plugin that simulates WeChat red packets(lucky|normal|private packets) in the server.
 
 
 
