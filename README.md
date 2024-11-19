@@ -16,6 +16,8 @@
     <br />
     <br />
     <br />:file_folder: How to get release version? -- Now, you can get all my plugins from <code><a href="https://www.minebbs.com/resources/authors/umaru.3812/"><img height="20" src="https://github.com/umarurize/umaru-cdn/blob/main/images/minebbs.png" alt=Minebbs" /></a>&nbsp;Minebbs</code>.
+    <br />
+    <br />:star: If you like my plugins, give me a star plz.
   </samp>
 
 </p>
