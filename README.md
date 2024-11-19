@@ -2,7 +2,7 @@
   <img src="https://github.com/umarurize/umaru-cdn/blob/main/images/usagi-1.gif" width="50px">
   <br><br />
   <samp>
-    :electric_plug: U-Plugins are U-series plugins for <code><a href="https://github.com/EndstoneMC/endstone"><img height="20" src="https://github.com/umarurize/umaru-cdn/blob/main/images/enstone.png" alt=Endstone" /></a>&nbsp;Endstone</code>.
+    :electric_plug: U-Plugins are U-series plugins for <code><a href="https://github.com/EndstoneMC/endstone"><img height="20" src="https://github.com/umarurize/umaru-cdn/blob/main/images/enstone.png" alt=Endstone" /></a>&nbsp;Endstone(writre your plugins in Python and C++)</code>.
     <br />
     <br />:bulb: Plugins I have developed so far... :bulb: 
     <br />
