@@ -1,10 +1,14 @@
-<p align="left">
+<p align="center">
   <img src="https://github.com/umarurize/umaru-cdn/blob/main/images/usagi-1.gif" width="50px">
-  <br><br />
+  <br />
+  <br />
   <samp>
     :electric_plug: U-Plugins are U-series plugins for <code><a href="https://github.com/EndstoneMC/endstone"><img height="20" src="https://github.com/umarurize/umaru-cdn/blob/main/images/enstone.png" alt=Endstone" /></a>&nbsp;Endstone(writre your plugins in Python & C++)</code>.
-    <br />
-    <br />:bulb: Plugins I have developed so far... :bulb: 
+  </samp>
+</p>
+<p align="left">
+  <samp>
+    <br />:bulb: Plugins I have developed so far... 
     <br />
     <br >:clock10: <code><img height="30" src="https://github.com/umarurize/umaru-cdn/blob/main/images/ULand.png" alt=ULand 2D Light" /></a>&nbsp;UBackup</code>: A light 2D territory plugin with rich features and beautiful GUI. 
     <br />
