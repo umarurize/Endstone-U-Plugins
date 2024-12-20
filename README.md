@@ -14,13 +14,13 @@
     <br />
     <br >:globe_with_meridians: <code><img height="30" src="https://github.com/umarurize/umaru-cdn/blob/main/images/U-Worldboarder.jpg" alt=U-Worldboarder" /></a>&nbsp;U-Worldboarder</code>: A useful world boarder plugin(Multi-dimensional|Auto-rebound). 
     <br />
-    <br >:clock10: <code><img height="35" src="https://github.com/umarurize/umaru-cdn/blob/main/images/logo.jpg" alt=UBackup" /></a>&nbsp;UBackup</code>: A plugin that allows you to back up your server archives on a scheduled basis or manually. 
+    <br >:clock10: <code><img height="30" src="https://github.com/umarurize/umaru-cdn/blob/main/images/logo.jpg" alt=UBackup" /></a>&nbsp;UBackup</code>: A plugin that allows you to back up your server archives on a scheduled basis or manually. 
     <br />
-    <br />:rocket: <code><img height="35" src="https://github.com/umarurize/umaru-cdn/blob/main/images/UTransfer.jpg" alt=UTransfer" /></a>&nbsp;UTransfer</code>: A Cross-server transfer plugin with beautiful form(buttons with server status & images).
+    <br />:rocket: <code><img height="30" src="https://github.com/umarurize/umaru-cdn/blob/main/images/UTransfer.jpg" alt=UTransfer" /></a>&nbsp;UTransfer</code>: A Cross-server transfer plugin with beautiful form(buttons with server status & images).
     <br />
     <br />:no_entry: <code><img height="30" src="https://github.com/umarurize/umaru-cdn/blob/main/images/UBan.jpg" alt=UBan" /></a>&nbsp;UBan</code>: A server management plugin with rich functions(Ban players|Ban items & blocks|Report System).
     <br />
-    <br />:moneybag: <code><img height="35" src="https://github.com/umarurize/umaru-cdn/blob/main/images/U-Red-Packets.jpg" alt=U-Red-Packets" /></a>&nbsp;U-Red-Packet</code>: A plugin that simulates WeChat red packets(lucky|normal|private packets) in the server.
+    <br />:moneybag: <code><img height="30" src="https://github.com/umarurize/umaru-cdn/blob/main/images/U-Red-Packets.jpg" alt=U-Red-Packets" /></a>&nbsp;U-Red-Packet</code>: A plugin that simulates WeChat red packets(lucky|normal|private packets) in the server.
     <br />
     <br />
     <br />:file_folder: How to get release version? -- Now, you can get all my plugins from <code><a href="https://www.minebbs.com/resources/authors/umaru.3812/"><img height="20" src="https://github.com/umarurize/umaru-cdn/blob/main/images/minebbs.png" alt=Minebbs" /></a>&nbsp;Minebbs</code>.
