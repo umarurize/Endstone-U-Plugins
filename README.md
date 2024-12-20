@@ -1,4 +1,4 @@
-<p align="center">
+<p align="left">
   <img src="https://github.com/umarurize/umaru-cdn/blob/main/images/usagi-1.gif" width="50px">
   <br><br />
   <samp>
