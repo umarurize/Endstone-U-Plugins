@@ -10,7 +10,9 @@
   <samp>
     <br />:arrow_down_small: Plugins I have developed so far... 
     <br />
-    <br >:house_with_garden: <code><img height="30" src="https://github.com/umarurize/umaru-cdn/blob/main/images/ULand.png" alt=ULand 2D Light" /></a>&nbsp;ULand 2D Light</code>: A light 2D territory plugin with rich features and beautiful GUI. 
+    <br >:house_with_garden: <code><img height="30" src="https://github.com/umarurize/umaru-cdn/blob/main/images/ULand.png" alt=ULand 2D Light" /></a>&nbsp;ULand 2D Light</code>: A light 2D territory plugin with rich and interesting features. 
+    <br />
+    <br >:globe_with_meridians: <code><img height="30" src="https://github.com/umarurize/umaru-cdn/blob/main/images/U-Worldboarder.jpg" alt=U-Worldboarder" /></a>&nbsp;U-Worldboarder</code>: A useful world boarder plugin(Multi-dimensional|Auto-rebound|Customize your world center). 
     <br />
     <br >:clock10: <code><img height="35" src="https://github.com/umarurize/umaru-cdn/blob/main/images/logo.jpg" alt=UBackup" /></a>&nbsp;UBackup</code>: A plugin that allows you to back up your server archives on a scheduled basis or manually. 
     <br />
