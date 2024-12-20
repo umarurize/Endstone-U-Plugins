@@ -22,7 +22,7 @@
     <br />
     <br />:moneybag: <code><img height="30" src="https://github.com/umarurize/umaru-cdn/blob/main/images/U-Red-Packets.jpg" alt=U-Red-Packets" /></a>&nbsp;U-Red-Packet</code>: A plugin that simulates WeChat red packets(lucky|normal|private packets) in the server.
     <br />
-    <br />:moneybag: <code><img height="30" src="https://github.com/umarurize/umaru-cdn/blob/main/images/U-Beautiful-Chat.png" alt=U-Beautiful-Chat" /></a>&nbsp;U-Beautiful-Chat</code>: A chat enhancement plugin with a variety of variables and rich features.
+    <br />:speech_balloon: <code><img height="30" src="https://github.com/umarurize/umaru-cdn/blob/main/images/U-Beautiful-Chat.png" alt=U-Beautiful-Chat" /></a>&nbsp;U-Beautiful-Chat</code>: A chat enhancement plugin with a variety of variables and rich features.
   </samp>
  </p> 
  <p align="left">
